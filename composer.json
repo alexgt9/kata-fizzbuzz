@@ -1,4 +1,6 @@
 {
+    "name": "alexgt9/php-kata-skeleton",
+    "description": "PHP Kata skeleton",
     "require-dev": {
         "phpunit/phpunit": "^10.1"
     },
