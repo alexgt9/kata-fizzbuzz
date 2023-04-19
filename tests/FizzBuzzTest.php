@@ -2,7 +2,10 @@
 
 require __DIR__ . "/../src/FizzBuzz.php";
 
-class FizzBuzzTest extends PHPUnit_Framework_TestCase{
+use PHPUnit\Framework\TestCase;
+
+
+class FizzBuzzTest extends TestCase  {
 	public function testTrue(){
 		$this->assertTrue(true);
 	}

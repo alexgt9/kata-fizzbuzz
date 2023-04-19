@@ -1,4 +1,4 @@
 <?php
 
-class FizzBuzz{
+class FizzBuzz {
 }
